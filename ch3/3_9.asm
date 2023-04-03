@@ -1,5 +1,5 @@
 ; wap to perform scalar multiplication of array of five unsigned bytes.
-
+;exp-4
 data segment
     n db 03h
     val db 12h, 0A5h, 0FFh, 34h, 98h

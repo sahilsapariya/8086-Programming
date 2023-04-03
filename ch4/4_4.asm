@@ -1,5 +1,5 @@
 ;wap to find the sum of first N numbers
-
+;exp-4 exercise
 data segment
     n dw 000Ah
     sum dw ?

@@ -25,7 +25,7 @@ next:
     lea dx, mes1
     jmp print1
 skip:   lea dx, mes2
-print1:  int 21
+print1:  int 21h
 
     mov ax, 4c00h
     int 21h

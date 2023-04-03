@@ -1,3 +1,4 @@
+;wap to read string and display it.
 data segment
     mes1 db "Enter a string : $"
     str_buf db 255, 256 dup(0)

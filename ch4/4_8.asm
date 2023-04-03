@@ -1,5 +1,5 @@
 ;wap to sort the given block of 8-bit numbers.
-
+;exp- 5
 data segment
     block db 05h, 23h, 0A2h, 66h, 12h, 7Dh
 data ends

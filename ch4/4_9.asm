@@ -1,5 +1,5 @@
 ;wap to find the factorial of given 8-bit number.
-
+;exp-5 
 data segment
     n db 05h
     ans dw ?

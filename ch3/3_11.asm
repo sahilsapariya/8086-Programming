@@ -1,5 +1,5 @@
 ;wap to perform ORing of two 16-bits number without using OR instruction.
-
+;exp-4 exercise
 data segment
     n1 dw 1234h
     n2 dw 4321h
